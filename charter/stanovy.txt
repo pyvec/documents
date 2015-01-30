@@ -1,0 +1,259 @@
+<!-- pozn. Toto je Markdown, ale pro renderování potřebuje specifické CSS -->
+
+# Stanovy občanského sdružení Pyvec, o.s.
+
+
+## Čl. 1.
+### Název a sídlo
+
+1. Pyvec, o.s. (dále jen sdružení) má své sídlo na adrese:
+  Hub Praha, Drtinova 10/557, 150 00 Praha 5 – Smíchov.
+
+
+## Čl. 2
+### Charakter sdružení
+
+2. Sdružení je dobrovolným nevládním občanským sdružením, vzniklým podle
+  zákona č. 83/1990 Sb., o sdružování občanů, v platném znění.
+  Sdružení je právnickou osobou podle českého práva.
+
+
+## Čl. 3
+### Základní cíle sdružení
+
+3. Základními cíli sdružení jsou zejména:
+
+    * sdružení osob se zájmem o programování,
+    * propagace programovacího jazyka python,
+    * přiblížení programování mládeži,
+    * podpora opensource (počítačového softwaru s otevřeným zdrojovým kódem) projektů,
+    * vývoj vlastních opensource řešení,
+    * organizování kulturně-společenských akcí.
+
+
+## Čl. 4
+### Formy činnosti sdružení
+
+4. Formami činnosti sdružení jsou zejména:
+
+    * poradenská a konzultační činnost,
+    * pořádání seminářů, přednášek a konferencí,
+    * vývoj softwaru,
+    * vydávání letáčků, publikací.
+
+
+## Čl. 5
+### Členství ve sdružení
+
+5. Členem sdružení může být právnická osoba a fyzická osoba starší 15 let.
+   Členství ve sdružení vzniká na základě schválení písemné přihlášky Radou
+   sdružení.
+   O přijetí rozhoduje Rada sdružení na svém nejbližším jednání.
+
+6. Rada může udělit členovi aktivní, či pasivní členství
+   (Aktivní člen, Pasivní člen).
+
+7. Aktivní člen ve sdružení má právo:
+
+    * účastnit se jednání členské schůze,
+    * volit orgány sdružení a být volen do těchto orgánů,
+    * předkládat návrhy, podněty a připomínky orgánům sdružení,
+    * podílet se na praktické činnosti sdružení.
+
+8. Pasivní člen ve sdružení má právo:
+
+    * účastnit se jednání členské schůze,
+    * předkládat návrhy, podněty a připomínky orgánům sdružení,
+    * podílet se na praktické činnosti sdružení.
+
+9. Každý člen sdružení má povinnost:
+
+    * dodržovat stanovy, plnit usnesení orgánů sdružení,
+    * aktivně hájit zájmy sdružení, dodržovat všechny vnitřní dohody
+      a nepodnikat žádné kroky, které by byly v rozporu se zájmy sdružení,
+    * účastnit se jednání orgánů sdružení a přispívat ke zlepšení jejich práce.
+
+10. Členství ve sdružení zaniká:
+
+    * doručením písemného oznámení člena o tom, že vystupuje ze sdružení,
+    * úmrtím člena sdružení,
+    * zánikem sdružení,
+    * vyloučením člena sdružení Radou sdružení v případě, že člen opakovaně
+      i přes písemné napomenutí Radou sdružení porušuje tyto stanovy.
+
+11. Veškeré vypořádání vůči členovi, kterému zaniklo členství proběhne do tří
+    měsíců od potvrzeného ukončení členství.
+
+12. Zakládajícími aktivními členy jsou jmenováni:
+
+    * Jiří Bartoň, datum narození: 10. 2. 1977,
+      bydliště: Sládkovičova 1264/10, 14200 Praha 4,
+    * Aleš Zoulek, datum narození: 2. 9. 1982,
+      bydliště: Pod Pražskou 267, 25203 Řitka,
+    * Jakub Vysoký, datum narození: 4. 6. 1983,
+      bydliště: Bořivojova 1768, 41301 Roudnice nad Labem,
+    * Vítězslav Pliska, datum narození: 1. 7. 1974,
+      bydliště: Markušova 1638, 14900 Praha 4,
+    * Martin Bílek , datum narození: 5. 9. 1981,
+      bydliště: Imrychova 881/21, 14000 Praha 4,
+    * Robin Gottfried, datum narození: 9. 9. 1976,
+      bydliště: Laubova 1659/2 13000 Praha 3,
+    * Jan Král, datum narození: 28. 3. 1983,
+      bydliště: Konvitská 10, 11000 Praha 1.
+
+
+## Čl. 6
+### Organizační uspořádání
+
+13. Strukturu sdružení tvoří:
+
+    * členská schůze,
+    * rada sdružení,
+    * dozorčí rada.
+
+#### A. Členská schůze:
+
+<!-- [sic] - divné číslování !? -->
+* 1\. Nejvyšším orgánem sdružení je členská schůze jeho členů, která se schází
+   nejméně jednou ročně, aby:
+
+    * schválila stanovy sdružení a změny těchto stanov,
+    * zvolila radu sdružení a dozorčí radu, případně odvolala její členy,
+    * schválila rozpočet sdružení předkládaný Radou sdružení,
+    * schválila zprávu o činnosti sdružení předkládanou Radou sdružení
+      a účetní závěrku za předešlý rok
+    * určila koncepci sdružení a jeho cíle na příští období,
+    * schválila přihlášky nových členů a rozhodla o vyloučení člena,
+    * rozhodla o zániku sdružení.
+
+<!-- -->
+
+14. Zasedání členské schůze sdružení svolává Rada sdružení.
+    Rada sdružení je povinna do 1 měsíce svolat členskou schůzi, pokud ho o to
+    požádá písemně alespoň jedna třetina aktivních členů sdružení, nebo pokud
+    o to požádá dozorčí rada.
+    Rozhodnutí o vyloučení člena sdružení a o zániku sdružení jsou přijímána
+    dvoutřetinovou většinou všech členů sdružení.
+    Schůze je usnášení schopná, účastní-li se zasedání nadpoloviční většina
+    všech aktivních členů sdružení.
+
+#### B. Rada sdružení:
+
+15. Rada sdružení je výkonným orgánem sdružení.
+    Řídí činnost sdružení mezi zasedáními členské schůze a plní úkoly uložené
+    ji členskou schůzí.
+
+16. První rada sdružení sestává ze všech zakládajících aktivních členů sdružení.
+
+17. Rada sdružení má 3-7 členů, které volí členská schůze sestávající
+    z aktivních členů tajnou volbou.
+
+18. Členové rady sdružení jsou voleni na 3 roky.
+
+19. Členové rady zvolí ze svého středu předsedu Rady v tajné volbě.
+
+20. Rozhodnutí Rady je platné, vysloví-li se pro něj nadpoloviční většina
+    členů rady.
+    V případě shodného počtu hlasů, rozhoduje hlas předsedy rady.
+
+
+#### C. Dozorčí rada
+
+21. Dozorčí rada je kontrolním orgánem sdružení.
+    Kontroluje, jak jsou vykonávána rozhodnutí členské schůze a dohlíží na
+    hospodaření sdružení.
+    Dozorčí rada dohlíží zejména na to, jak je nakládáno s dary a dotacemi
+    poskytnutými sdružení a na to, zda je hospodaření v souladu s rozpočtem.
+
+22. V případě, že dozorčí rada zjistí nedostatky, je oprávněna svolat
+    členskou schůzi.
+    Takto svolaná členská schůze musí projednat připomínky dozorčí rady
+    a přijmout opatření k jejich nápravě.
+
+23. Dozorčí rada má 3 členy, které volí členská schůze tajnou volbou.
+
+
+## Čl. 7
+### Územní jednotky sdružení
+
+24. Sdružení nezřizuje žádné územní jednotky s právní subjektivitou.
+
+
+## Čl. 8
+### Jednání jménem sdružení
+
+25. Jménem sdružení jedná Rada sdružení, případně člen rady sdružení
+    písemně zmocněný radou sdružení.
+    Předseda rady sdružení je oprávněn jednat jménem sdružení samostatně.
+
+
+## Čl. 9
+### Hospodaření sdružení
+
+26. Za hospodaření sdružení odpovídá rada sdružení.
+    Sdružení hospodaří podle ročního rozpočtu sestaveného radou sdružení
+    a schváleného členskou schůzí.
+
+27. K zajištění běžného hospodaření, k nakládání s majetkovými hodnotami
+    do výše 10.000,– Kč (deset tisíc korun českých), k vedení účetnictví
+    a k zajištění plnění daňových povinností jmenuje rada pokladníka.
+
+28. U výdajů přesahujících jednotlivě 10.000,– Kč (deset tisíc korun českých)
+    je třeba souhlas předsedy a alespoň jednoho člena rady.
+
+29. Pokladník předkládá radě sdružení ke schválení průběžný stav hospodaření,
+    a to nejméně jedenkrát za každé tři po sobě jdoucí měsíce.
+
+30. Pokladník je odpovědný radě sdružení za řádné zajištění vedení účetní
+    evidence, jež lze zajistit prostřednictvím třetích osob a za zpracování
+    řádné účetní závěrky.
+
+31. Příjmy sdružení tvoří příspěvky jeho členů, jsou-li stanoveny,
+    dotace a dary.
+
+32. Výdaje sdružení jsou zaměřeny na uskutečňování cílů sdružení uvedených
+    v čl. 3 a v souladu s formami činnosti uvedenými v čl. 4 těchto stanov.
+
+
+## Čl. 10
+### Způsob majetkového vypořádání při zániku sdružení
+
+
+33. V případě zániku sdružení je jeho majetek po provedené likvidaci bezplatně
+    převeden na jinou právnickou osobu neziskového charakteru,
+    jejíž cíle jsou blízké cílům sdružení.
+    Jestliže nebude tato osoba nalezena do 3 měsíců od ukončení likvidace,
+    rozdělí se zbývající majetek rovným dílem mezi aktivní členy sdružení.
+
+
+## Čl. 11
+### Závěrečná ustanovení
+
+34. Stanovy sdružení jsou závazné pro všechny aktivní i pasivní členy sdružení.
+
+35. Stanovy je možné měnit na členské schůzi.
+    Stanovy sdružení lze měnit dvoutřetinovou většinou všech aktivních členů.
+
+
+Tyto stanovy byly přijaty přípravným výborem sestávajícím ze zakládajících
+aktivních členů dne:
+
+  21\. března 2012
+
+
+
+
+
+* Jiří Bartoň:
+
+* Aleš Zoulek:
+
+* Jakub Vysoký:
+
+* Vítězslav Pliska:
+
+* Martin Bílek:
+
+* Robin Gottfried:
+
+* Jan Král:
