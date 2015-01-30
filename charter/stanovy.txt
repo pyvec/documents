@@ -113,8 +113,7 @@
 
 #### A. Členská schůze:
 
-<!-- [sic] - divné číslování !? -->
-* 1\. Nejvyšším orgánem sdružení je členská schůze jeho členů, která se schází
+14. Nejvyšším orgánem sdružení je členská schůze jeho členů, která se schází
    nejméně jednou ročně, aby:
 
     * schválila stanovy sdružení a změny těchto stanov,
@@ -126,9 +125,7 @@
     * schválila přihlášky nových členů a rozhodla o vyloučení člena,
     * rozhodla o zániku sdružení.
 
-<!-- -->
-
-14. Zasedání členské schůze sdružení svolává Rada sdružení.
+15. Zasedání členské schůze sdružení svolává Rada sdružení.
     Rada sdružení je povinna do 1 měsíce svolat členskou schůzi, pokud ho o to
     požádá písemně alespoň jedna třetina aktivních členů sdružení, nebo pokud
     o to požádá dozorčí rada.
@@ -139,50 +136,50 @@
 
 #### B. Rada sdružení:
 
-15. Rada sdružení je výkonným orgánem sdružení.
+16. Rada sdružení je výkonným orgánem sdružení.
     Řídí činnost sdružení mezi zasedáními členské schůze a plní úkoly uložené
     ji členskou schůzí.
 
-16. První rada sdružení sestává ze všech zakládajících aktivních členů sdružení.
+17. První rada sdružení sestává ze všech zakládajících aktivních členů sdružení.
 
-17. Rada sdružení má 3-7 členů, které volí členská schůze sestávající
+18. Rada sdružení má 3-7 členů, které volí členská schůze sestávající
     z aktivních členů tajnou volbou.
 
-18. Členové rady sdružení jsou voleni na 3 roky.
+19. Členové rady sdružení jsou voleni na 3 roky.
 
-19. Členové rady zvolí ze svého středu předsedu Rady v tajné volbě.
+20. Členové rady zvolí ze svého středu předsedu Rady v tajné volbě.
 
-20. Rozhodnutí Rady je platné, vysloví-li se pro něj nadpoloviční většina
+21. Rozhodnutí Rady je platné, vysloví-li se pro něj nadpoloviční většina
     členů rady.
     V případě shodného počtu hlasů, rozhoduje hlas předsedy rady.
 
 
 #### C. Dozorčí rada
 
-21. Dozorčí rada je kontrolním orgánem sdružení.
+22. Dozorčí rada je kontrolním orgánem sdružení.
     Kontroluje, jak jsou vykonávána rozhodnutí členské schůze a dohlíží na
     hospodaření sdružení.
     Dozorčí rada dohlíží zejména na to, jak je nakládáno s dary a dotacemi
     poskytnutými sdružení a na to, zda je hospodaření v souladu s rozpočtem.
 
-22. V případě, že dozorčí rada zjistí nedostatky, je oprávněna svolat
+23. V případě, že dozorčí rada zjistí nedostatky, je oprávněna svolat
     členskou schůzi.
     Takto svolaná členská schůze musí projednat připomínky dozorčí rady
     a přijmout opatření k jejich nápravě.
 
-23. Dozorčí rada má 3 členy, které volí členská schůze tajnou volbou.
+24. Dozorčí rada má 3 členy, které volí členská schůze tajnou volbou.
 
 
 ## Čl. 7
 ### Územní jednotky sdružení
 
-24. Sdružení nezřizuje žádné územní jednotky s právní subjektivitou.
+25. Sdružení nezřizuje žádné územní jednotky s právní subjektivitou.
 
 
 ## Čl. 8
 ### Jednání jménem sdružení
 
-25. Jménem sdružení jedná Rada sdružení, případně člen rady sdružení
+26. Jménem sdružení jedná Rada sdružení, případně člen rady sdružení
     písemně zmocněný radou sdružení.
     Předseda rady sdružení je oprávněn jednat jménem sdružení samostatně.
 
@@ -190,28 +187,28 @@
 ## Čl. 9
 ### Hospodaření sdružení
 
-26. Za hospodaření sdružení odpovídá rada sdružení.
+27. Za hospodaření sdružení odpovídá rada sdružení.
     Sdružení hospodaří podle ročního rozpočtu sestaveného radou sdružení
     a schváleného členskou schůzí.
 
-27. K zajištění běžného hospodaření, k nakládání s majetkovými hodnotami
+28. K zajištění běžného hospodaření, k nakládání s majetkovými hodnotami
     do výše 10.000,– Kč (deset tisíc korun českých), k vedení účetnictví
     a k zajištění plnění daňových povinností jmenuje rada pokladníka.
 
-28. U výdajů přesahujících jednotlivě 10.000,– Kč (deset tisíc korun českých)
+29. U výdajů přesahujících jednotlivě 10.000,– Kč (deset tisíc korun českých)
     je třeba souhlas předsedy a alespoň jednoho člena rady.
 
-29. Pokladník předkládá radě sdružení ke schválení průběžný stav hospodaření,
+30. Pokladník předkládá radě sdružení ke schválení průběžný stav hospodaření,
     a to nejméně jedenkrát za každé tři po sobě jdoucí měsíce.
 
-30. Pokladník je odpovědný radě sdružení za řádné zajištění vedení účetní
+31. Pokladník je odpovědný radě sdružení za řádné zajištění vedení účetní
     evidence, jež lze zajistit prostřednictvím třetích osob a za zpracování
     řádné účetní závěrky.
 
-31. Příjmy sdružení tvoří příspěvky jeho členů, jsou-li stanoveny,
+32. Příjmy sdružení tvoří příspěvky jeho členů, jsou-li stanoveny,
     dotace a dary.
 
-32. Výdaje sdružení jsou zaměřeny na uskutečňování cílů sdružení uvedených
+33. Výdaje sdružení jsou zaměřeny na uskutečňování cílů sdružení uvedených
     v čl. 3 a v souladu s formami činnosti uvedenými v čl. 4 těchto stanov.
 
 
@@ -219,7 +216,7 @@
 ### Způsob majetkového vypořádání při zániku sdružení
 
 
-33. V případě zániku sdružení je jeho majetek po provedené likvidaci bezplatně
+34. V případě zániku sdružení je jeho majetek po provedené likvidaci bezplatně
     převeden na jinou právnickou osobu neziskového charakteru,
     jejíž cíle jsou blízké cílům sdružení.
     Jestliže nebude tato osoba nalezena do 3 měsíců od ukončení likvidace,
@@ -229,9 +226,9 @@
 ## Čl. 11
 ### Závěrečná ustanovení
 
-34. Stanovy sdružení jsou závazné pro všechny aktivní i pasivní členy sdružení.
+35. Stanovy sdružení jsou závazné pro všechny aktivní i pasivní členy sdružení.
 
-35. Stanovy je možné měnit na členské schůzi.
+36. Stanovy je možné měnit na členské schůzi.
     Stanovy sdružení lze měnit dvoutřetinovou většinou všech aktivních členů.
 
 
