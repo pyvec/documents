@@ -17,7 +17,7 @@ enforce this code throughout the event.
 
 ## The Short Version ##
 
-__PyconCZ__ is dedicated to providing a harassment-free conference
+__PyCon CZ__ is dedicated to providing a harassment-free conference
 experience for everyone, regardless of gender, sexual orientation,
 physical appearance, body size, disability, race, ethnicity,
 religion, or otherwise. We do not tolerate harassment of conference
